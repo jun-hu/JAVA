@@ -1,0 +1,14 @@
+package assign2_2;
+
+public class assign2_2 {
+
+	public assign2_2() {
+		// TODO Auto-generated constructor stub
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
